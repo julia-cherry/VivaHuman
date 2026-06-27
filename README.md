@@ -4,7 +4,7 @@
 
 [**Paper**](https://arxiv.org/abs/2604.18326) | [**arXiv PDF**](https://arxiv.org/pdf/2604.18326)
 
-Official repository for **VivaHuman: A Large-scale Dataset and Benchmark for Human-Centric Video Generation**.
+Official repository for **OmniHuman: A Large-scale Dataset and Benchmark for Human-Centric Video Generation**.
 <!--
 ## Abstract
 
